@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+ margin: 0;
+}
+
+.heroImage{
+  background-image: url("../public/images/Poster.png");
+  height: 600px;
+  background-size: cover;
+}
+
+.slick-arrow{
+  color: #6B7280 !important;
+  background: brown !important;
+}
